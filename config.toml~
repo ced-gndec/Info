@@ -1,4 +1,4 @@
-baseURL = "/ced"
+baseURL = "/"
 languageCode = "en-us"
 title = "CED@GNDEC"
 themesDir = "themes"
@@ -19,12 +19,12 @@ theme = "hugo-serif-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "Courses"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Team"
+    name = "Faculty"
     url = "/team/"
     weight = 2
 
