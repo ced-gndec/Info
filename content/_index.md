@@ -3,6 +3,7 @@ title: 'Home'
 date: 2018-02-12T15:37:57+07:00
 ---
 
-# Serif - Hugo Small Business Theme.
+# Civil Engineering Department @ GNDEC, Ludhiana, India
 
-Serif is a beautiful small business theme for Hugo. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The Department of Civil Engineering at Guru Nanak Dev Engineering College was established in 1956 and is as old as the college itself. The department is producing several eminent engineers who are making notable contributions in the planning and execution of Civil Engineering projects in India as well as abroad.
+

@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
     weight = 2
 
 [[menu.main]]
-	name = "Testimonials"
+	name = "XXXTestimonials"
 	url = "/testimonials/"
 	weight = 3
 
