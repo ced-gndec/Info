@@ -12,7 +12,7 @@ theme = "hugo-serif-theme"
     meta_og_title = "CED Title"
     meta_og_type = "website"
     meta_og_url = "https://ce.gndec.ac.in/"
-    meta_og_image = "https://github.com/ced-gndec/ced-gndec.github.io/raw/master/images/gndecHome.png"
+    meta_og_image = "https://github.com/GreatDevelopers/gndec/raw/master/images/gndecHome.png"
     meta_og_description = "The Department of Civil Engineering at Guru Nanak Dev Engineering College was established in 1956 and is as old as the college itself. The department is producing several eminent engineers who are making notable contributions in the planning and execution of Civil Engineering projects in India as well as abroad."
     meta_twitter_card = "summary"
     meta_twitter_site = "@RaiHS"
@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
     weight = 2
 
 [[menu.main]]
-	name = "Testimonials"
+	name = "XXXTestimonials"
 	url = "/testimonials/"
 	weight = 3
 
